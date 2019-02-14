@@ -19391,6 +19391,7 @@
     "count": 132,
     "tags": {
       "brand": "AWG",
+      "brand:wikidata": "Q300222",
       "name": "AWG",
       "shop": "clothes"
     }
@@ -19796,6 +19797,7 @@
     "count": 57,
     "tags": {
       "brand": "Colloseum",
+      "brand:wikidata": "Q15794685",
       "name": "Colloseum",
       "shop": "clothes"
     }
@@ -20846,6 +20848,8 @@
     "count": 51,
     "tags": {
       "brand": "Pierre Cardin",
+      "brand:wikidata": "Q22921009",
+      "brand:wikipedia": "en:Pierre Cardin",
       "name": "Pierre Cardin",
       "shop": "clothes"
     }
@@ -20864,6 +20868,8 @@
     "count": 69,
     "tags": {
       "brand": "Plato's Closet",
+      "brand:wikidata": "Q28048853",
+      "brand:wikipedia": "en:Winmark",
       "name": "Plato's Closet",
       "shop": "clothes"
     }
@@ -25730,6 +25736,8 @@
     "count": 86,
     "tags": {
       "brand": "Elektra",
+      "brand:wikidata": "Q1142753",
+      "brand:wikipedia": "en:Grupo Elektra",
       "name": "Elektra",
       "shop": "electronics"
     }
@@ -26578,6 +26586,8 @@
     "count": 99,
     "tags": {
       "brand": "Welkoop",
+      "brand:wikidata": "Q396721",
+      "brand:wikipedia": "en:Agrifirm",
       "name": "Welkoop",
       "shop": "garden_centre"
     }
@@ -29296,6 +29306,8 @@
     "count": 183,
     "tags": {
       "brand": "La Halle aux Chaussures",
+      "brand:wikidata": "",
+      "brand:wikipedia": "",
       "name": "La Halle aux Chaussures",
       "shop": "shoes"
     }
@@ -29483,8 +29495,10 @@
   },
   "shop/shoes|Tamaris": {
     "count": 117,
+    "countryCodes": ["de"],
     "tags": {
       "brand": "Tamaris",
+      "brand:wikipedia": "en:Tamaris",
       "name": "Tamaris",
       "shop": "shoes"
     }
